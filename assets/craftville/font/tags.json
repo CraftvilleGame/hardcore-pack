@@ -5,8 +5,8 @@
         {"type": "bitmap","file": "craftville:font/tag/noord.png", "ascent": 7.5, "height": 8.5, "chars": ["\uE202"]},
         {"type": "bitmap","file": "craftville:font/tag/zuid.png", "ascent": 7.5, "height": 8.5, "chars": ["\uE203"]},
         {"type": "bitmap","file": "craftville:font/tag/logo.png", "ascent": 16, "height": 48, "chars": ["\uE204"]},
-        {"type": "bitmap","file": "craftville:font/tag/oost.png", "ascent": 7.5, "height": 8.5, "chars": ["\uE203"]},
-        {"type": "bitmap","file": "craftville:font/tag/west.png", "ascent": 7.5, "height": 8.5, "chars": ["\uE203"]},
+        {"type": "bitmap","file": "craftville:font/tag/oost.png", "ascent": 7.5, "height": 8.5, "chars": ["\uE205"]},
+        {"type": "bitmap","file": "craftville:font/tag/west.png", "ascent": 7.5, "height": 8.5, "chars": ["\uE206"]},
 
         {
             "type": "space",

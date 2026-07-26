@@ -10,6 +10,7 @@
         {"type": "bitmap","file": "craftville:font/tag/staff.png", "ascent": 7.5, "height": 8.5, "chars": ["\uE207"]},
         {"type": "bitmap","file": "craftville:font/tag/min.png", "ascent": 7, "height": 8, "chars": ["\uE208"]},
         {"type": "bitmap","file": "craftville:font/tag/plus.png", "ascent": 7, "height": 8, "chars": ["\uE209"]},
+        {"type": "bitmap","file": "craftville:font/tag/craftville_plus.png", "ascent": 7, "height": 8, "chars": ["\uA47E"]},
 
         {
             "type": "space",
